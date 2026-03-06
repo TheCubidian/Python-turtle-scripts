@@ -1,3 +1,4 @@
 # Python-turtle-scripts
 A collection of the python TKinter turtle module scripts I have created.
 You can run any of them by going on the corresponding trinket.io embed found on my personal website, [here!](https://cubidian.me/projects/tkinter-turtle)
+However, they work better if run on your own device (for example, the square creator won't have a black line going from the corner to it's centre as seen in the trinket.io embed). For information on how to do that, follow [this](https://github.com/TheCubidian/Spellcaster) tutorial, but obviously download it from this repo instead of that one for step 2.
