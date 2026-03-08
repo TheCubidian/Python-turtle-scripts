@@ -1,5 +1,5 @@
 from turtle import *
-speed(0)
+speed(6)
 colours = ("red", "orange", "yellow", "lightgreen", "dodgerblue", "indigo", "violet")
 radius = (100, 85, 70, 60, 45, 30, 15)
 for a in range (7):
