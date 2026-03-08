@@ -1,4 +1,5 @@
 from turtle import *
+
 print('''This is a linear graph creator. This means the graph has a formula of y = mx + c
 (m being gradient and c being y-intercept). This program works for y = mx graphs too.''')
 gradient = float(input("What is the gradient? "))
@@ -10,8 +11,8 @@ if y_intercept == "":
     y_intercept = 0
 else:
     y_intercept = float(y_intercept)
-
 y = gradient * 300
+
 hideturtle()
 goto(-1200, 0)
 fd(2400)
